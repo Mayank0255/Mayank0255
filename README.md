@@ -40,4 +40,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+2. 🎉 Merged PR [#30](https://github.com/Mayank0255/Stackoverflow-Clone/pull/30) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. 🎉 Merged PR [#5](https://github.com/Mayank0255/Movie-Surfer/pull/5) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+4. 🎉 Merged PR [#29](https://github.com/Mayank0255/Stackoverflow-Clone/pull/29) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+5. 🎉 Merged PR [#28](https://github.com/Mayank0255/Stackoverflow-Clone/pull/28) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+<!--END_SECTION:activity-->
 
