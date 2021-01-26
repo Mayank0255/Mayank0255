@@ -1,7 +1,9 @@
 ## Hello, folks! <img src="https://github.com/Mayank0255/Mayank0255/blob/main/wave.gif" align="top" width="30px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" /></p>
+<p align="left"> <img src="https://img.shields.io/github/followers/Mayank0255?label=Follow&style=social" alt="Mayank0255" /></p>
 
 
+## 🎓 I'm an BTech IT Student at Manipal University Jaipur
 - 🔭 I’m currently practicing questions on LeetCode
 - 🌱 I’m currently learning Data mining & Flutter
 - 👯 I’m open to opportunities for Spring 2021, and Summer 2021
@@ -26,7 +28,7 @@
   <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## &#x1f4c8; GitHub Stats
+## 🏆 My GitHub Stats
 
 [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
