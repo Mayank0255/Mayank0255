@@ -28,9 +28,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Mayank0255">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank0255&layout=compact&theme=prussian&hide=html&langs_count=6" />
-</a>
-<a href="https://github.com/Mayank0255">
- <img align="top" src="https://github-readme-stats.vercel.app/api?username=Mayank0255&custom_title=Mayank's%20Github%20Stats&count_private=true&show_icons=true&theme=prussian" alt="Mayank's github stats"/>
-</a>
+[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
