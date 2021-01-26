@@ -35,9 +35,8 @@
 [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
----
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
@@ -46,4 +45,3 @@
 4. 🎉 Merged PR [#29](https://github.com/Mayank0255/Stackoverflow-Clone/pull/29) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 5. 🎉 Merged PR [#28](https://github.com/Mayank0255/Stackoverflow-Clone/pull/28) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
----
