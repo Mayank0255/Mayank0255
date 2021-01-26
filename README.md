@@ -1,6 +1,13 @@
 ## Hello, folks! <img src="https://github.com/Mayank0255/Mayank0255/blob/main/wave.gif" align="top" width="30px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" /></p>
-<p align="left"> <img src="https://img.shields.io/github/followers/Mayank0255?label=Follow&style=social" alt="Mayank0255" /></p>
+<img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
+<p align="left">
+  
+  <a href="https://github.com/Mayank0255" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/Mayank0255" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/mayank-aggarwal-14301b168/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://medium.com/@mynkggrwl" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
 
 
 ## 🎓 I'm a BTech IT Student at Manipal University Jaipur
@@ -39,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Mayank0255/Chat-Room/pull/2) in [Mayank0255/Chat-Room](https://github.com/Mayank0255/Chat-Room)
-2. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-3. 🎉 Merged PR [#30](https://github.com/Mayank0255/Stackoverflow-Clone/pull/30) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-4. 🎉 Merged PR [#5](https://github.com/Mayank0255/Movie-Surfer/pull/5) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
-5. 🎉 Merged PR [#29](https://github.com/Mayank0255/Stackoverflow-Clone/pull/29) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+2. 🎉 Merged PR [#30](https://github.com/Mayank0255/Stackoverflow-Clone/pull/30) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. 🎉 Merged PR [#5](https://github.com/Mayank0255/Movie-Surfer/pull/5) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+4. 🎉 Merged PR [#29](https://github.com/Mayank0255/Stackoverflow-Clone/pull/29) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+5. 🎉 Merged PR [#28](https://github.com/Mayank0255/Stackoverflow-Clone/pull/28) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
