@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://img.shields.io/github/followers/Mayank0255?label=Follow&style=social" alt="Mayank0255" /></p>
 
 
-## 🎓 I'm an BTech IT Student at Manipal University Jaipur
+## 🎓 I'm a BTech IT Student at Manipal University Jaipur
 - 🔭 I’m currently practicing questions on LeetCode
 - 🌱 I’m currently learning Data mining & Flutter
 - 👯 I’m open to opportunities for Spring 2021, and Summer 2021
