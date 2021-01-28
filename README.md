@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mayank0255/Crime-Prediction-Analysis/pull/1) in [Mayank0255/Crime-Prediction-Analysis](https://github.com/Mayank0255/Crime-Prediction-Analysis)
-2. 🎉 Merged PR [#2](https://github.com/Mayank0255/Chat-Room/pull/2) in [Mayank0255/Chat-Room](https://github.com/Mayank0255/Chat-Room)
-3. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-4. 🎉 Merged PR [#30](https://github.com/Mayank0255/Stackoverflow-Clone/pull/30) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-5. 🎉 Merged PR [#5](https://github.com/Mayank0255/Movie-Surfer/pull/5) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+1. 🎉 Merged PR [#1](https://github.com/Mayank0255/SD-Times/pull/1) in [Mayank0255/SD-Times](https://github.com/Mayank0255/SD-Times)
+2. 🎉 Merged PR [#1](https://github.com/Mayank0255/Crime-Prediction-Analysis/pull/1) in [Mayank0255/Crime-Prediction-Analysis](https://github.com/Mayank0255/Crime-Prediction-Analysis)
+3. 🎉 Merged PR [#2](https://github.com/Mayank0255/Chat-Room/pull/2) in [Mayank0255/Chat-Room](https://github.com/Mayank0255/Chat-Room)
+4. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+5. 🎉 Merged PR [#30](https://github.com/Mayank0255/Stackoverflow-Clone/pull/30) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
