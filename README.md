@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-2. 🎉 Merged PR [#2](https://github.com/Mayank0255/Crime-Prediction-Analysis/pull/2) in [Mayank0255/Crime-Prediction-Analysis](https://github.com/Mayank0255/Crime-Prediction-Analysis)
-3. 🎉 Merged PR [#1](https://github.com/Mayank0255/SD-Times/pull/1) in [Mayank0255/SD-Times](https://github.com/Mayank0255/SD-Times)
-4. 🎉 Merged PR [#1](https://github.com/Mayank0255/Crime-Prediction-Analysis/pull/1) in [Mayank0255/Crime-Prediction-Analysis](https://github.com/Mayank0255/Crime-Prediction-Analysis)
-5. 🎉 Merged PR [#2](https://github.com/Mayank0255/Chat-Room/pull/2) in [Mayank0255/Chat-Room](https://github.com/Mayank0255/Chat-Room)
+1. ❌ Closed PR [#26](https://github.com/Mayank0255/Stackoverflow-Clone/pull/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+2. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. 🗣 Commented on [#26](https://github.com/Mayank0255/Stackoverflow-Clone/issues/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+4. 🎉 Merged PR [#2](https://github.com/Mayank0255/Crime-Prediction-Analysis/pull/2) in [Mayank0255/Crime-Prediction-Analysis](https://github.com/Mayank0255/Crime-Prediction-Analysis)
+5. 🎉 Merged PR [#1](https://github.com/Mayank0255/SD-Times/pull/1) in [Mayank0255/SD-Times](https://github.com/Mayank0255/SD-Times)
 <!--END_SECTION:activity-->
