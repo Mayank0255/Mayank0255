@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mayank0255/Interview-EspressoLabs/pull/1) in [Mayank0255/Interview-EspressoLabs](https://github.com/Mayank0255/Interview-EspressoLabs)
-2. 🎉 Merged PR [#1](https://github.com/Mayank0255/Chat-Room/pull/1) in [Mayank0255/Chat-Room](https://github.com/Mayank0255/Chat-Room)
-3. 🎉 Merged PR [#4](https://github.com/Mayank0255/Blog-Site/pull/4) in [Mayank0255/Blog-Site](https://github.com/Mayank0255/Blog-Site)
-4. 🎉 Merged PR [#2](https://github.com/Mayank0255/Resume-Bot/pull/2) in [Mayank0255/Resume-Bot](https://github.com/Mayank0255/Resume-Bot)
-5. ❌ Closed PR [#26](https://github.com/Mayank0255/Stackoverflow-Clone/pull/26) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. 🎉 Merged PR [#1](https://github.com/Mayank0255/Atari-Space-Invaders/pull/1) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+2. 🎉 Merged PR [#3](https://github.com/Mayank0255/Crime-Prediction-Analysis/pull/3) in [Mayank0255/Crime-Prediction-Analysis](https://github.com/Mayank0255/Crime-Prediction-Analysis)
+3. 🎉 Merged PR [#1](https://github.com/Mayank0255/Interview-EspressoLabs/pull/1) in [Mayank0255/Interview-EspressoLabs](https://github.com/Mayank0255/Interview-EspressoLabs)
+4. 🎉 Merged PR [#1](https://github.com/Mayank0255/Chat-Room/pull/1) in [Mayank0255/Chat-Room](https://github.com/Mayank0255/Chat-Room)
+5. 🎉 Merged PR [#4](https://github.com/Mayank0255/Blog-Site/pull/4) in [Mayank0255/Blog-Site](https://github.com/Mayank0255/Blog-Site)
 <!--END_SECTION:activity-->
