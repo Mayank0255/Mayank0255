@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/Mayank0255/Stackoverflow-Clone/issues/31) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-2. 🎉 Merged PR [#1](https://github.com/Mayank0255/NestJS_Rest_Api/pull/1) in [Mayank0255/NestJS_Rest_Api](https://github.com/Mayank0255/NestJS_Rest_Api)
-3. 💪 Opened PR [#1](https://github.com/Mayank0255/NestJS_Rest_Api/pull/1) in [Mayank0255/NestJS_Rest_Api](https://github.com/Mayank0255/NestJS_Rest_Api)
-4. 🎉 Merged PR [#1](https://github.com/Mayank0255/Atari-Space-Invaders/pull/1) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-5. 🎉 Merged PR [#3](https://github.com/Mayank0255/Crime-Prediction-Analysis/pull/3) in [Mayank0255/Crime-Prediction-Analysis](https://github.com/Mayank0255/Crime-Prediction-Analysis)
+1. ❗️ Closed issue [#32](https://github.com/Mayank0255/Stackoverflow-Clone/issues/32) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+2. ❗️ Opened issue [#32](https://github.com/Mayank0255/Stackoverflow-Clone/issues/32) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. ❗️ Opened issue [#31](https://github.com/Mayank0255/Stackoverflow-Clone/issues/31) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+4. 🎉 Merged PR [#1](https://github.com/Mayank0255/NestJS_Rest_Api/pull/1) in [Mayank0255/NestJS_Rest_Api](https://github.com/Mayank0255/NestJS_Rest_Api)
+5. 💪 Opened PR [#1](https://github.com/Mayank0255/NestJS_Rest_Api/pull/1) in [Mayank0255/NestJS_Rest_Api](https://github.com/Mayank0255/NestJS_Rest_Api)
 <!--END_SECTION:activity-->
