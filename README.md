@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/Mayank0255/Stackoverflow-Clone/issues/32) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-2. ❗️ Opened issue [#32](https://github.com/Mayank0255/Stackoverflow-Clone/issues/32) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-3. ❗️ Opened issue [#31](https://github.com/Mayank0255/Stackoverflow-Clone/issues/31) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-4. 🎉 Merged PR [#1](https://github.com/Mayank0255/NestJS_Rest_Api/pull/1) in [Mayank0255/NestJS_Rest_Api](https://github.com/Mayank0255/NestJS_Rest_Api)
-5. 💪 Opened PR [#1](https://github.com/Mayank0255/NestJS_Rest_Api/pull/1) in [Mayank0255/NestJS_Rest_Api](https://github.com/Mayank0255/NestJS_Rest_Api)
+1. 🎉 Merged PR [#1](https://github.com/Mayank0255/Mayank0255/pull/1) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
+2. ❗️ Closed issue [#32](https://github.com/Mayank0255/Stackoverflow-Clone/issues/32) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. ❗️ Opened issue [#32](https://github.com/Mayank0255/Stackoverflow-Clone/issues/32) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+4. ❗️ Opened issue [#31](https://github.com/Mayank0255/Stackoverflow-Clone/issues/31) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+5. 🎉 Merged PR [#1](https://github.com/Mayank0255/NestJS_Rest_Api/pull/1) in [Mayank0255/NestJS_Rest_Api](https://github.com/Mayank0255/NestJS_Rest_Api)
 <!--END_SECTION:activity-->
