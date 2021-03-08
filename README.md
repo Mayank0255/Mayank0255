@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#12](https://github.com/Mayank0255/Stackoverflow-Clone/issues/12) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-2. 🗣 Commented on [#12](https://github.com/Mayank0255/Stackoverflow-Clone/issues/12) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-3. 🎉 Merged PR [#1](https://github.com/Mayank0255/Mayank0255/pull/1) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
-4. ❗️ Closed issue [#32](https://github.com/Mayank0255/Stackoverflow-Clone/issues/32) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-5. ❗️ Opened issue [#32](https://github.com/Mayank0255/Stackoverflow-Clone/issues/32) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+2. 🗣 Commented on [#76](https://github.com/DSC-JSS-NOIDA/foss-events/issues/76) in [DSC-JSS-NOIDA/foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
+3. ❗️ Opened issue [#76](https://github.com/DSC-JSS-NOIDA/foss-events/issues/76) in [DSC-JSS-NOIDA/foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
+4. ❗️ Reopened issue [#12](https://github.com/Mayank0255/Stackoverflow-Clone/issues/12) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+5. 🗣 Commented on [#12](https://github.com/Mayank0255/Stackoverflow-Clone/issues/12) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
