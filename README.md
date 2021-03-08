@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-2. 🗣 Commented on [#76](https://github.com/DSC-JSS-NOIDA/foss-events/issues/76) in [DSC-JSS-NOIDA/foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
-3. ❗️ Opened issue [#76](https://github.com/DSC-JSS-NOIDA/foss-events/issues/76) in [DSC-JSS-NOIDA/foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
-4. ❗️ Reopened issue [#12](https://github.com/Mayank0255/Stackoverflow-Clone/issues/12) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-5. 🗣 Commented on [#12](https://github.com/Mayank0255/Stackoverflow-Clone/issues/12) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. 🗣 Commented on [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+2. ❗️ Opened issue [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+3. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+4. 🗣 Commented on [#76](https://github.com/DSC-JSS-NOIDA/foss-events/issues/76) in [DSC-JSS-NOIDA/foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
+5. ❗️ Opened issue [#76](https://github.com/DSC-JSS-NOIDA/foss-events/issues/76) in [DSC-JSS-NOIDA/foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
 <!--END_SECTION:activity-->
