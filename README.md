@@ -47,8 +47,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-2. 🗣 Commented on [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-3. 🗣 Commented on [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-4. ❗️ Opened issue [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-5. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+2. 💪 Opened PR [#20](https://github.com/purnima143/Kurakoo/pull/20) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+3. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+4. 🗣 Commented on [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+5. 🗣 Commented on [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
 <!--END_SECTION:activity-->
