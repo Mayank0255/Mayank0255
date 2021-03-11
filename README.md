@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/Mayank0255/Stackoverflow-Clone/issues/33) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-2. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-3. 💪 Opened PR [#20](https://github.com/purnima143/Kurakoo/pull/20) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-4. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-5. 🗣 Commented on [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+1. 🗣 Commented on [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+2. ❗️ Opened issue [#33](https://github.com/Mayank0255/Stackoverflow-Clone/issues/33) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+4. 💪 Opened PR [#20](https://github.com/purnima143/Kurakoo/pull/20) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+5. 🗣 Commented on [#14](https://github.com/purnima143/Kurakoo/issues/14) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
 <!--END_SECTION:activity-->
