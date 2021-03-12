@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Mayank0255/Kurakoo/pull/1) in [Mayank0255/Kurakoo](https://github.com/Mayank0255/Kurakoo)
-2. ❗️ Closed issue [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-3. 🗣 Commented on [#41](https://github.com/purnima143/Kurakoo/issues/41) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-4. ❗️ Opened issue [#36](https://github.com/purnima143/Kurakoo/issues/36) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-5. 🗣 Commented on [#20](https://github.com/purnima143/Kurakoo/issues/20) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+1. 💪 Opened PR [#56](https://github.com/purnima143/Kurakoo/pull/56) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+2. ❌ Closed PR [#1](https://github.com/Mayank0255/Kurakoo/pull/1) in [Mayank0255/Kurakoo](https://github.com/Mayank0255/Kurakoo)
+3. ❗️ Closed issue [#15](https://github.com/purnima143/Kurakoo/issues/15) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+4. 🗣 Commented on [#41](https://github.com/purnima143/Kurakoo/issues/41) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+5. ❗️ Opened issue [#36](https://github.com/purnima143/Kurakoo/issues/36) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
 <!--END_SECTION:activity-->
