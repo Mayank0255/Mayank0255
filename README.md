@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71](https://github.com/purnima143/Kurakoo/issues/71) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-2. 🗣 Commented on [#36](https://github.com/purnima143/Kurakoo/issues/36) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
-3. 🗣 Commented on [#56](https://github.com/purnima143/Kurakoo/issues/56) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+1. 🗣 Commented on [#39](https://github.com/purnima143/Kurakoo/issues/39) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+2. ❗️ Opened issue [#71](https://github.com/purnima143/Kurakoo/issues/71) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
+3. 🗣 Commented on [#36](https://github.com/purnima143/Kurakoo/issues/36) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
 4. 🗣 Commented on [#56](https://github.com/purnima143/Kurakoo/issues/56) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
 5. 🗣 Commented on [#56](https://github.com/purnima143/Kurakoo/issues/56) in [purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
 <!--END_SECTION:activity-->
