@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1036](https://github.com/jscoach/support/issues/1036) in [jscoach/support](https://github.com/jscoach/support)
-2. 🗣 Commented on [#35](https://github.com/Mayank0255/Stackoverflow-Clone/issues/35) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-3. 🗣 Commented on [#31](https://github.com/Mayank0255/Stackoverflow-Clone/issues/31) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. 🗣 Commented on [#35](https://github.com/Mayank0255/Stackoverflow-Clone/issues/35) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+2. ❗️ Opened issue [#1036](https://github.com/jscoach/support/issues/1036) in [jscoach/support](https://github.com/jscoach/support)
+3. 🗣 Commented on [#35](https://github.com/Mayank0255/Stackoverflow-Clone/issues/35) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 4. 🗣 Commented on [#31](https://github.com/Mayank0255/Stackoverflow-Clone/issues/31) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 5. 🗣 Commented on [#31](https://github.com/Mayank0255/Stackoverflow-Clone/issues/31) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
