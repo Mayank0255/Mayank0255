@@ -48,7 +48,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#40](https://github.com/Mayank0255/Stackoverflow-Clone/issues/40) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 2. 🗣 Commented on [#40](https://github.com/Mayank0255/Stackoverflow-Clone/issues/40) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-3. 🗣 Commented on [#22](https://github.com/Mayank0255/Stackoverflow-Clone/issues/22) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. 🗣 Commented on [#40](https://github.com/Mayank0255/Stackoverflow-Clone/issues/40) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 4. 🗣 Commented on [#22](https://github.com/Mayank0255/Stackoverflow-Clone/issues/22) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 5. 🗣 Commented on [#22](https://github.com/Mayank0255/Stackoverflow-Clone/issues/22) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
