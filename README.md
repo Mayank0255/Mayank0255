@@ -63,9 +63,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Mayank0255/Movie-Surfer/pull/7) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
-2. 🎉 Merged PR [#6](https://github.com/Mayank0255/Movie-Surfer/pull/6) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
-3. 🎉 Merged PR [#1](https://github.com/Mayank0255/YelpCamp/pull/1) in [Mayank0255/YelpCamp](https://github.com/Mayank0255/YelpCamp)
-4. ❗️ Opened issue [#107](https://github.com/TEDxP/Join_TEDxP/issues/107) in [TEDxP/Join_TEDxP](https://github.com/TEDxP/Join_TEDxP)
-5. 🎉 Merged PR [#40](https://github.com/Mayank0255/Stackoverflow-Clone/pull/40) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. 🎉 Merged PR [#2](https://github.com/Mayank0255/IT1634-Minor-Project/pull/2) in [Mayank0255/IT1634-Minor-Project](https://github.com/Mayank0255/IT1634-Minor-Project)
+2. 🗣 Commented on [#42](https://github.com/Mayank0255/Stackoverflow-Clone/issues/42) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. 🎉 Merged PR [#7](https://github.com/Mayank0255/Movie-Surfer/pull/7) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+4. 🎉 Merged PR [#6](https://github.com/Mayank0255/Movie-Surfer/pull/6) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+5. 🎉 Merged PR [#1](https://github.com/Mayank0255/YelpCamp/pull/1) in [Mayank0255/YelpCamp](https://github.com/Mayank0255/YelpCamp)
 <!--END_SECTION:activity-->
