@@ -1,13 +1,14 @@
 ## Hello, folks! <img src="https://github.com/Mayank0255/Mayank0255/blob/main/wave.gif" align="top" width="30px">
 <img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
-<p align="left">
-  
-  <a href="https://github.com/Mayank0255" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/Mayank0255" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/mayank-aggarwal-14301b168/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@mynkggrwl" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 
+
+<!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
+[![Discord Badge](https://img.shields.io/badge/mayank0255-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discords.com/bio/p/mayank0255)
+[![Linkedin Badge](https://img.shields.io/badge/-Mayank%20Aggarwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-aggarwal-14301b168/)
+[![Mail Badge](https://img.shields.io/badge/-mayank2aggarwal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mayank2aggarwal@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Mayank-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKIoMO8RvlAh7bIUfT2Nmsg)
+[![Twitter Badge](https://img.shields.io/badge/-@Mayank0255-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Mayank0255)
+[![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl)
 
 
 ## 🎓 I'm a BTech IT Student at Manipal University Jaipur
