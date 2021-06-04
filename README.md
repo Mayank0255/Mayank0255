@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/Mayank0255/Stackoverflow-Clone/issues/43) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. 🎉 Merged PR [#2](https://github.com/Mayank0255/Mayank0255/pull/2) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
 2. 🗣 Commented on [#43](https://github.com/Mayank0255/Stackoverflow-Clone/issues/43) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 3. 🗣 Commented on [#43](https://github.com/Mayank0255/Stackoverflow-Clone/issues/43) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-4. 🗣 Commented on [#34](https://github.com/Mayank0255/Stackoverflow-Clone/issues/34) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-5. 💪 Opened PR [#2](https://github.com/Mayank0255/Mayank0255/pull/2) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
+4. 🗣 Commented on [#43](https://github.com/Mayank0255/Stackoverflow-Clone/issues/43) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+5. 🗣 Commented on [#43](https://github.com/Mayank0255/Stackoverflow-Clone/issues/43) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
