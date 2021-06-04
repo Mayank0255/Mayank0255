@@ -1,13 +1,14 @@
 ## Hello, folks! <img src="https://github.com/Mayank0255/Mayank0255/blob/main/wave.gif" align="top" width="30px">
 <img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
-<p align="left">
-  
-  <a href="https://github.com/Mayank0255" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/Mayank0255" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/mayank-aggarwal-14301b168/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@mynkggrwl" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 
+
+<!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
+[![Discord Badge](https://img.shields.io/badge/mayank0255-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discords.com/bio/p/mayank0255)
+[![Linkedin Badge](https://img.shields.io/badge/-Mayank%20Aggarwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-aggarwal-14301b168/)
+[![Mail Badge](https://img.shields.io/badge/-mayank2aggarwal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mayank2aggarwal@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Mayank-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKIoMO8RvlAh7bIUfT2Nmsg)
+[![Twitter Badge](https://img.shields.io/badge/-@Mayank0255-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Mayank0255)
+[![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl)
 
 
 ## 🎓 I'm a BTech IT Student at Manipal University Jaipur
@@ -18,39 +19,28 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
 
 
-[//]: <> (### Things I code with: 
+### Things I code with: 
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;)
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
 
-[//]: <> (### Things that help me code:
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;)
+### Tools I use:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30px"></span>&nbsp;
+<span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="30px"></span>&nbsp;
 
-[//]: <> (### Things I am learning:
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png" alt="WebStorm" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" height="40" style="vertical-align:top; margin:4px">
-</p>
+### Things I am learning:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
 
 ## 🏆 My GitHub Stats
 
