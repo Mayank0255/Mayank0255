@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Mayank0255/Weather-HERE/pull/2) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
-2. 🗣 Commented on [#44](https://github.com/Mayank0255/Stackoverflow-Clone/issues/44) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. 🗣 Commented on [#17](https://github.com/Mayank0255/Stackoverflow-Clone/issues/17) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+2. 🎉 Merged PR [#2](https://github.com/Mayank0255/Weather-HERE/pull/2) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
 3. 🗣 Commented on [#44](https://github.com/Mayank0255/Stackoverflow-Clone/issues/44) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-4. 🎉 Merged PR [#9](https://github.com/Mayank0255/Movie-Surfer/pull/9) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
-5. 🎉 Merged PR [#8](https://github.com/Mayank0255/Movie-Surfer/pull/8) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+4. 🗣 Commented on [#44](https://github.com/Mayank0255/Stackoverflow-Clone/issues/44) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+5. 🎉 Merged PR [#9](https://github.com/Mayank0255/Movie-Surfer/pull/9) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
 <!--END_SECTION:activity-->
