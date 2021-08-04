@@ -14,7 +14,7 @@
 ## 🎓 I'm a BTech IT Student at Manipal University Jaipur
 - 🔭 I’m currently practicing questions on LeetCode
 - 🌱 I’m currently learning Data mining & Flutter
-- 👯 I’m open to 6-months long opportunities, starting from January 2022
+- 👯 I’m actively looking for a 6 month long internship, starting from January 2022
 - 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
 
