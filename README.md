@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mayank0255/Context-Hooks-TypeScript/pull/1) in [Mayank0255/Context-Hooks-TypeScript](https://github.com/Mayank0255/Context-Hooks-TypeScript)
-2. 💪 Opened PR [#1](https://github.com/Mayank0255/Context-Hooks-TypeScript/pull/1) in [Mayank0255/Context-Hooks-TypeScript](https://github.com/Mayank0255/Context-Hooks-TypeScript)
-3. 🗣 Commented on [#48](https://github.com/Mayank0255/Stackoverflow-Clone/issues/48) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-4. 🗣 Commented on [#48](https://github.com/Mayank0255/Stackoverflow-Clone/issues/48) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-5. 🗣 Commented on [#47](https://github.com/Mayank0255/Stackoverflow-Clone/issues/47) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+1. ❗️ Opened issue [#4](https://github.com/Mayank0255/Context-Hooks-TypeScript/issues/4) in [Mayank0255/Context-Hooks-TypeScript](https://github.com/Mayank0255/Context-Hooks-TypeScript)
+2. ❗️ Closed issue [#3](https://github.com/Mayank0255/Context-Hooks-TypeScript/issues/3) in [Mayank0255/Context-Hooks-TypeScript](https://github.com/Mayank0255/Context-Hooks-TypeScript)
+3. ❗️ Opened issue [#3](https://github.com/Mayank0255/Context-Hooks-TypeScript/issues/3) in [Mayank0255/Context-Hooks-TypeScript](https://github.com/Mayank0255/Context-Hooks-TypeScript)
+4. ❗️ Opened issue [#2](https://github.com/Mayank0255/Context-Hooks-TypeScript/issues/2) in [Mayank0255/Context-Hooks-TypeScript](https://github.com/Mayank0255/Context-Hooks-TypeScript)
+5. 🎉 Merged PR [#1](https://github.com/Mayank0255/Context-Hooks-TypeScript/pull/1) in [Mayank0255/Context-Hooks-TypeScript](https://github.com/Mayank0255/Context-Hooks-TypeScript)
 <!--END_SECTION:activity-->
