@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/Mayank0255/Stackoverflow-Clone/issues/49) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-2. ❗️ Closed issue [#47](https://github.com/Mayank0255/Stackoverflow-Clone/issues/47) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-3. 🗣 Commented on [#48](https://github.com/Mayank0255/Stackoverflow-Clone/issues/48) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-4. 🎉 Merged PR [#48](https://github.com/Mayank0255/Stackoverflow-Clone/pull/48) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-5. ❗️ Opened issue [#4](https://github.com/Mayank0255/Context-Hooks-TypeScript/issues/4) in [Mayank0255/Context-Hooks-TypeScript](https://github.com/Mayank0255/Context-Hooks-TypeScript)
+1. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone/issues/2) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+2. 🗣 Commented on [#49](https://github.com/Mayank0255/Stackoverflow-Clone/issues/49) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. ❗️ Closed issue [#47](https://github.com/Mayank0255/Stackoverflow-Clone/issues/47) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+4. 🗣 Commented on [#48](https://github.com/Mayank0255/Stackoverflow-Clone/issues/48) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+5. 🎉 Merged PR [#48](https://github.com/Mayank0255/Stackoverflow-Clone/pull/48) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
