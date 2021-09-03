@@ -54,8 +54,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone/issues/2) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
-2. 💪 Opened PR [#553](https://github.com/emmabostian/developer-portfolios/pull/553) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
-3. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone/issues/2) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+2. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone/issues/2) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
+3. 💪 Opened PR [#553](https://github.com/emmabostian/developer-portfolios/pull/553) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
 4. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone/issues/2) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 5. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone/issues/2) in [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone)
 <!--END_SECTION:activity-->
