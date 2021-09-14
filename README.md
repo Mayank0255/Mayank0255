@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/4) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. ❗️ Opened issue [#3](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/3) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. ❗️ Opened issue [#2](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/2) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. 🗣 Commented on [#17](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/17) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. 🗣 Commented on [#17](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/17) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🎉 Merged PR [#7](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/7) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. 💪 Opened PR [#7](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/7) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+3. ❗️ Opened issue [#4](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/4) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. ❗️ Opened issue [#3](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/3) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❗️ Opened issue [#2](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/2) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
