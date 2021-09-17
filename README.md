@@ -52,9 +52,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/34) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🎉 Merged PR [#7](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/7) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 💪 Opened PR [#7](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/7) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. ❗️ Opened issue [#4](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/4) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. ❗️ Opened issue [#3](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/3) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. ❗️ Opened issue [#10](https://github.com/Mayank0255/Movie-Surfer/issues/10) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+2. 🗣 Commented on [#34](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/34) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 🎉 Merged PR [#7](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/7) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. 💪 Opened PR [#7](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/7) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❗️ Opened issue [#4](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/4) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
