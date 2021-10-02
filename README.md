@@ -52,9 +52,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/12) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🗣 Commented on [#8](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/8) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 🎉 Merged PR [#8](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/8) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. ❗️ Closed issue [#6](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/6) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/2) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🗣 Commented on [#9](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/9) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. 🗣 Commented on [#12](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/12) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 🗣 Commented on [#8](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/8) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. 🎉 Merged PR [#8](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/8) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❗️ Closed issue [#6](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/6) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
