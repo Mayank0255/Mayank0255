@@ -53,8 +53,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/34) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/2) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. 🗣 Commented on [#55](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/55) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. 🗣 Commented on [#5](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/5) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/2) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+2. 🗣 Commented on [#34](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/34) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 🗣 Commented on [#2](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/2) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. 🗣 Commented on [#55](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/55) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. 🗣 Commented on [#5](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/5) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
