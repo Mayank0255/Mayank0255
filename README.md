@@ -52,9 +52,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Mayank0255/Atari-Space-Invaders/issues/14) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-2. 🗣 Commented on [#3](https://github.com/Mayank0255/Atari-Space-Invaders/issues/3) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-3. 🗣 Commented on [#9](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/9) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. 🗣 Commented on [#8](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/8) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. 🗣 Commented on [#57](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/57) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🗣 Commented on [#3](https://github.com/Mayank0255/Atari-Space-Invaders/issues/3) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+2. 🗣 Commented on [#14](https://github.com/Mayank0255/Atari-Space-Invaders/issues/14) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+3. 🗣 Commented on [#3](https://github.com/Mayank0255/Atari-Space-Invaders/issues/3) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+4. 🗣 Commented on [#9](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/9) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. 🗣 Commented on [#8](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/8) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
