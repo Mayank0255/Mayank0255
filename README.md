@@ -52,9 +52,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Mayank0255/Atari-Space-Invaders/issues/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+1. ❗️ Opened issue [#19](https://github.com/Mayank0255/Atari-Space-Invaders/issues/19) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
 2. 🗣 Commented on [#18](https://github.com/Mayank0255/Atari-Space-Invaders/issues/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-3. 🎉 Merged PR [#18](https://github.com/Mayank0255/Atari-Space-Invaders/pull/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-4. ❗️ Closed issue [#17](https://github.com/Mayank0255/Atari-Space-Invaders/issues/17) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-5. 🗣 Commented on [#18](https://github.com/Mayank0255/Atari-Space-Invaders/issues/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+3. 🗣 Commented on [#18](https://github.com/Mayank0255/Atari-Space-Invaders/issues/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+4. 🎉 Merged PR [#18](https://github.com/Mayank0255/Atari-Space-Invaders/pull/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+5. ❗️ Closed issue [#17](https://github.com/Mayank0255/Atari-Space-Invaders/issues/17) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
 <!--END_SECTION:activity-->
