@@ -53,8 +53,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/Mayank0255/Atari-Space-Invaders/issues/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-2. 🗣 Commented on [#19](https://github.com/Mayank0255/Atari-Space-Invaders/issues/19) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-3. 🗣 Commented on [#22](https://github.com/Mayank0255/Atari-Space-Invaders/issues/22) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
-4. ❗️ Opened issue [#69](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues/69) in [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-5. 🗣 Commented on [#18](https://github.com/Mayank0255/Atari-Space-Invaders/issues/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+2. 🗣 Commented on [#18](https://github.com/Mayank0255/Atari-Space-Invaders/issues/18) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+3. 🗣 Commented on [#19](https://github.com/Mayank0255/Atari-Space-Invaders/issues/19) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+4. 🗣 Commented on [#22](https://github.com/Mayank0255/Atari-Space-Invaders/issues/22) in [Mayank0255/Atari-Space-Invaders](https://github.com/Mayank0255/Atari-Space-Invaders)
+5. ❗️ Opened issue [#69](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues/69) in [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--END_SECTION:activity-->
