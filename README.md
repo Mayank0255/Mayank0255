@@ -52,9 +52,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Mayank0255/Space-Invaders/issues/8) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
-2. ❗️ Closed issue [#4](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/4) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 🎉 Merged PR [#10](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/10) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. 🗣 Commented on [#11](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/11) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. 🗣 Commented on [#10](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/10) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. 🗣 Commented on [#25](https://github.com/Mayank0255/Space-Invaders/issues/25) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
+2. 🗣 Commented on [#8](https://github.com/Mayank0255/Space-Invaders/issues/8) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
+3. ❗️ Closed issue [#4](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/4) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. 🎉 Merged PR [#10](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/10) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. 🗣 Commented on [#11](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/11) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
