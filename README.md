@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#60](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/60) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🗣 Commented on [#60](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/60) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. 🗣 Commented on [#60](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/60) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. 🗣 Commented on [#59](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/59) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. 🗣 Commented on [#31](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/31) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🗣 Commented on [#17](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/17) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. 🎉 Merged PR [#17](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/17) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+3. ❗️ Closed issue [#16](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/16) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. 🗣 Commented on [#10](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/10) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❌ Closed PR [#60](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/60) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
 <!--END_SECTION:activity-->
