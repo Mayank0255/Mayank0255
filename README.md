@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-2. ❗️ Opened issue [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-3. ❗️ Opened issue [#27](https://github.com/Amegma/Space-Invaders/issues/27) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-4. ❗️ Closed issue [#26](https://github.com/Amegma/Space-Invaders/issues/26) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-5. 🗣 Commented on [#17](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/17) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. ❗️ Opened issue [#31](https://github.com/Amegma/Space-Invaders/issues/31) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+2. ❗️ Opened issue [#30](https://github.com/Amegma/Space-Invaders/issues/30) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+3. ❗️ Opened issue [#29](https://github.com/Amegma/Space-Invaders/issues/29) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+4. 🗣 Commented on [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+5. ❗️ Opened issue [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
 <!--END_SECTION:activity-->
