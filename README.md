@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-2. ❗️ Closed issue [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-3. ❗️ Opened issue [#36](https://github.com/Amegma/Space-Invaders/issues/36) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-4. ❗️ Closed issue [#31](https://github.com/Amegma/Space-Invaders/issues/31) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-5. 🎉 Merged PR [#35](https://github.com/Amegma/Space-Invaders/pull/35) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+1. ❗️ Closed issue [#36](https://github.com/Amegma/Space-Invaders/issues/36) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+2. 🎉 Merged PR [#38](https://github.com/Amegma/Space-Invaders/pull/38) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+3. 💪 Opened PR [#38](https://github.com/Amegma/Space-Invaders/pull/38) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+4. 🗣 Commented on [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+5. ❗️ Closed issue [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
 <!--END_SECTION:activity-->
