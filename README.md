@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/Amegma/Space-Invaders/issues/42) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-2. 🗣 Commented on [#69](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues/69) in [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-3. 🎉 Merged PR [#41](https://github.com/Amegma/Space-Invaders/pull/41) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-4. 💪 Opened PR [#41](https://github.com/Amegma/Space-Invaders/pull/41) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-5. 🎉 Merged PR [#25](https://github.com/Amegma/Space-Invaders/pull/25) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+1. ❗️ Opened issue [#43](https://github.com/Amegma/Space-Invaders/issues/43) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+2. ❗️ Opened issue [#42](https://github.com/Amegma/Space-Invaders/issues/42) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+3. 🗣 Commented on [#69](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues/69) in [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+4. 🎉 Merged PR [#41](https://github.com/Amegma/Space-Invaders/pull/41) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+5. 💪 Opened PR [#41](https://github.com/Amegma/Space-Invaders/pull/41) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
 <!--END_SECTION:activity-->
