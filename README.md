@@ -59,3 +59,7 @@
 4. 🎉 Merged PR [#49](https://github.com/Amegma/Galaxy-Attack/pull/49) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
 5. 💪 Opened PR [#49](https://github.com/Amegma/Galaxy-Attack/pull/49) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
 <!--END_SECTION:activity-->
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
