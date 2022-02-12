@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#30](https://github.com/Amegma/Galaxy-Attack/issues/30) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-2. ❗️ Closed issue [#33](https://github.com/Amegma/Galaxy-Attack/issues/33) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-3. 🎉 Merged PR [#55](https://github.com/Amegma/Galaxy-Attack/pull/55) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-4. 💪 Opened PR [#55](https://github.com/Amegma/Galaxy-Attack/pull/55) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-5. ❗️ Opened issue [#54](https://github.com/Amegma/Galaxy-Attack/issues/54) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+1. 🎉 Merged PR [#57](https://github.com/Amegma/Galaxy-Attack/pull/57) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+2. 💪 Opened PR [#57](https://github.com/Amegma/Galaxy-Attack/pull/57) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+3. ❗️ Closed issue [#47](https://github.com/Amegma/Galaxy-Attack/issues/47) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+4. 🎉 Merged PR [#56](https://github.com/Amegma/Galaxy-Attack/pull/56) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+5. 💪 Opened PR [#56](https://github.com/Amegma/Galaxy-Attack/pull/56) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
 <!--END_SECTION:activity-->
