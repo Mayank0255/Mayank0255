@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/26) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. ❗️ Opened issue [#25](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/25) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. ❗️ Opened issue [#24](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/24) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. ❗️ Opened issue [#23](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/23) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. ❗️ Opened issue [#22](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/22) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. ❗️ Opened issue [#27](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/27) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. ❗️ Opened issue [#26](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/26) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+3. ❗️ Opened issue [#25](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/25) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. ❗️ Opened issue [#24](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/24) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❗️ Opened issue [#23](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/23) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
