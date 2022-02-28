@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/34) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. 💪 Opened PR [#34](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/34) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 🎉 Merged PR [#33](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/33) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. ❗️ Closed issue [#27](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/27) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. ❗️ Closed issue [#26](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/26) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. 💪 Opened PR [#35](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/35) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. 🎉 Merged PR [#34](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/34) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+3. 💪 Opened PR [#34](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/34) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. 🎉 Merged PR [#33](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/33) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❗️ Closed issue [#27](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/27) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
