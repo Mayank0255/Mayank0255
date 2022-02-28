@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/32) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. 💪 Opened PR [#32](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/32) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 🗣 Commented on [#31](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/31) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. ❗️ Opened issue [#30](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/30) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. ❗️ Opened issue [#29](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/29) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. 💪 Opened PR [#33](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/33) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. 🎉 Merged PR [#32](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/32) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+3. 💪 Opened PR [#32](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/32) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. 🗣 Commented on [#31](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/31) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❗️ Opened issue [#30](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/30) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
