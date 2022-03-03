@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/37) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. 🎉 Merged PR [#36](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/36) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 💪 Opened PR [#36](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/36) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. ❗️ Opened issue [#67](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/67) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. 🎉 Merged PR [#66](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/66) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🗣 Commented on [#38](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/38) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. ❗️ Opened issue [#37](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/37) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+3. 🎉 Merged PR [#36](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/36) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. 💪 Opened PR [#36](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/36) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❗️ Opened issue [#67](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/67) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
 <!--END_SECTION:activity-->
