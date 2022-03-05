@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/40) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. ❗️ Closed issue [#39](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/39) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. ❗️ Closed issue [#37](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/37) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. 💪 Opened PR [#40](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/40) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. 🗣 Commented on [#31](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/31) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. ❗️ Closed issue [#69](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/69) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+2. 🎉 Merged PR [#68](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/68) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. ❗️ Closed issue [#54](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/54) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. ❗️ Opened issue [#69](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/69) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. 🎉 Merged PR [#41](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/41) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
