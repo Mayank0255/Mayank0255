@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/72) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. ❗️ Opened issue [#71](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/71) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. ❗️ Opened issue [#70](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/70) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. ❗️ Closed issue [#69](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/69) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. 🎉 Merged PR [#68](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/68) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. ❗️ Closed issue [#67](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/67) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+2. ❗️ Closed issue [#70](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/70) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 🎉 Merged PR [#72](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/72) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. ❗️ Closed issue [#71](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/71) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. 💪 Opened PR [#72](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/72) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
 <!--END_SECTION:activity-->
