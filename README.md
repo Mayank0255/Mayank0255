@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/42) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. ❗️ Closed issue [#67](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/67) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. ❗️ Closed issue [#70](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/70) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. 🎉 Merged PR [#72](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/72) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. ❗️ Closed issue [#71](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/71) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🗣 Commented on [#42](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/42) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. ❗️ Opened issue [#42](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/42) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+3. ❗️ Closed issue [#67](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/67) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. ❗️ Closed issue [#70](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/70) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. 🎉 Merged PR [#72](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/72) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
 <!--END_SECTION:activity-->
