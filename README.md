@@ -53,9 +53,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/73) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🎉 Merged PR [#44](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/44) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 💪 Opened PR [#44](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/44) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. 🗣 Commented on [#43](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/43) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. 🎉 Merged PR [#43](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/43) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. 🎉 Merged PR [#73](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/73) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+2. ❗️ Closed issue [#65](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/65) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 💪 Opened PR [#73](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/73) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. 🎉 Merged PR [#44](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/44) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. 💪 Opened PR [#44](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/44) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 <!--END_SECTION:activity-->
