@@ -54,12 +54,15 @@
 
 </details>
 
-## &nbsp;&nbsp;&nbsp; :zap: Recent Activity
+<details open>
+  <summary>&nbsp;&nbsp;&nbsp;<h2>⚡ Recent Activity</h2></summary>
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/74) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🎉 Merged PR [#45](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/45) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 💪 Opened PR [#45](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/45) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. 🎉 Merged PR [#73](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/73) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. ❗️ Closed issue [#65](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/65) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-<!--END_SECTION:activity-->
+  <!--START_SECTION:activity-->
+  1. 💪 Opened PR [#74](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/74) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+  2. 🎉 Merged PR [#45](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/45) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+  3. 💪 Opened PR [#45](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/45) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+  4. 🎉 Merged PR [#73](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/73) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+  5. ❗️ Closed issue [#65](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/65) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+  <!--END_SECTION:activity-->
+  
+</details>
