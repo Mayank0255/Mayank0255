@@ -60,6 +60,7 @@
 
 ## 📚 Blog posts
 <!-- MEDIUM-STORY-LIST:START -->
+- [How I Got An Internship At Zomato Through LinkedIn](https://levelup.gitconnected.com/how-i-got-an-internship-at-zomato-through-linkedin-be486cf23628?source=rss-62889aba2ad1------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## ⚡ Recent Activity
