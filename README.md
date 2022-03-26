@@ -17,8 +17,9 @@
 - 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
 
+## 🛠️ Tools & Technologies
 <details>
-  <summary>&nbsp;&nbsp;&nbsp;<h2>🛠️ Tools & Technologies</h2></summary>
+  <summary>More Info</summary>
 
   ### Things I code with: 
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
@@ -45,18 +46,20 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
 
 </details>
-<details>
-  <summary>&nbsp;&nbsp;&nbsp;<h2>🏆 My GitHub Stats</h2></summary>
 
+## 🏆 My GitHub Stats
+<details>
+  <summary>More Info</summary>
+  <br/>
+  
   [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </details>
 
-<details open>
-  <summary>&nbsp;&nbsp;&nbsp;<h2>⚡ Recent Activity</h2></summary>
-
+## ⚡ Recent Activity
+  
   <!--START_SECTION:activity-->
   1. 💪 Opened PR [#74](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/74) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
   2. 🎉 Merged PR [#45](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/45) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
@@ -64,5 +67,3 @@
   4. 🎉 Merged PR [#73](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/73) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
   5. ❗️ Closed issue [#65](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/65) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
   <!--END_SECTION:activity-->
-  
-</details>
