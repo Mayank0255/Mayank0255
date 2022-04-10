@@ -66,9 +66,9 @@
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Mayank0255/Mayank0255/pull/3) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
-2. 💪 Opened PR [#3](https://github.com/Mayank0255/Mayank0255/pull/3) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
-3. 💪 Opened PR [#74](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/74) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. 🎉 Merged PR [#45](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/45) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-5. 💪 Opened PR [#45](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/45) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+1. 🎉 Merged PR [#11](https://github.com/Mayank0255/Movie-Surfer/pull/11) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+2. 🎉 Merged PR [#13](https://github.com/Mayank0255/Movie-Surfer/pull/13) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+3. 🎉 Merged PR [#12](https://github.com/Mayank0255/Movie-Surfer/pull/12) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+4. 🎉 Merged PR [#4](https://github.com/Mayank0255/Mayank0255/pull/4) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
+5. 🎉 Merged PR [#78](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/78) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
   <!--END_SECTION:activity-->
