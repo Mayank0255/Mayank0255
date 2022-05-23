@@ -66,9 +66,9 @@
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#58](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/58) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🎉 Merged PR [#81](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/81) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. 🎉 Merged PR [#80](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/80) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. 🗣 Commented on [#75](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/75) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. 🎉 Merged PR [#11](https://github.com/Mayank0255/Movie-Surfer/pull/11) in [Mayank0255/Movie-Surfer](https://github.com/Mayank0255/Movie-Surfer)
+1. 🎉 Merged PR [#82](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/82) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+2. ❌ Closed PR [#58](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/58) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 🎉 Merged PR [#81](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/81) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. 🎉 Merged PR [#80](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/80) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. 🗣 Commented on [#75](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/75) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
   <!--END_SECTION:activity-->
