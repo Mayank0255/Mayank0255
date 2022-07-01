@@ -66,9 +66,9 @@
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#88](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/88) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. ❗️ Opened issue [#87](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/87) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. ❗️ Opened issue [#46](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/46) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-4. ❗️ Opened issue [#86](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/86) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. ❗️ Opened issue [#85](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/85) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. ❗️ Opened issue [#47](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/47) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. ❗️ Opened issue [#88](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/88) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. ❗️ Opened issue [#87](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/87) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. ❗️ Opened issue [#46](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/46) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. ❗️ Opened issue [#86](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/86) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
   <!--END_SECTION:activity-->
