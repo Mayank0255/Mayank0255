@@ -66,9 +66,9 @@
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/90) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🗣 Commented on [#47](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/47) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
 2. 🗣 Commented on [#90](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/90) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
 3. 🗣 Commented on [#90](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/90) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
 4. 🗣 Commented on [#90](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/90) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. 🎉 Merged PR [#94](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/94) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. 🗣 Commented on [#90](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/90) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
   <!--END_SECTION:activity-->
