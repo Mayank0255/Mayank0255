@@ -66,9 +66,9 @@
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/95) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🗣 Commented on [#95](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/95) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. 💪 Opened PR [#95](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/95) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. ❌ Closed PR [#90](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/90) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. ❌ Reopened PR [#90](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/90) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🗣 Commented on [#97](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/97) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+2. 🎉 Merged PR [#95](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/95) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 🗣 Commented on [#95](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/95) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. 💪 Opened PR [#95](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/95) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. ❌ Closed PR [#90](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/90) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
   <!--END_SECTION:activity-->
