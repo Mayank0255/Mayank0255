@@ -66,9 +66,9 @@
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/29) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. 🎉 Merged PR [#50](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/50) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-3. 🗣 Commented on [#85](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/85) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. 🗣 Commented on [#91](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/91) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-5. 🎉 Merged PR [#98](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/98) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🎉 Merged PR [#53](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/53) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. 💪 Opened PR [#53](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/53) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+3. ❗️ Closed issue [#51](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/51) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+4. 🎉 Merged PR [#52](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/52) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+5. 💪 Opened PR [#52](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/pull/52) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
   <!--END_SECTION:activity-->
