@@ -60,6 +60,7 @@
 
 ## 📝 Medium Blogs
 <!-- MEDIUM-STORY-LIST:START -->
+- [9 Best Developer Communities On Discord](https://levelup.gitconnected.com/9-best-developer-communities-on-discord-c673b8ab3a1c?source=rss-62889aba2ad1------2)
 - [How I Got An Internship At Zomato Through LinkedIn](https://levelup.gitconnected.com/how-i-got-an-internship-at-zomato-through-linkedin-be486cf23628?source=rss-62889aba2ad1------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
