@@ -67,9 +67,9 @@
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/12) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-2. 🗣 Commented on [#85](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/85) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. 💪 Opened PR [#100](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/100) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-4. 🗣 Commented on [#63](https://github.com/Amegma/Galaxy-Attack/issues/63) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-5. 🗣 Commented on [#12](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/12) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 🗣 Commented on [#85](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/85) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+2. 🗣 Commented on [#12](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/12) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 🗣 Commented on [#85](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/85) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. 💪 Opened PR [#100](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/pull/100) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. 🗣 Commented on [#63](https://github.com/Amegma/Galaxy-Attack/issues/63) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
   <!--END_SECTION:activity-->
