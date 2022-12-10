@@ -11,7 +11,7 @@
 [![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl)
 
 ## 🎓 I'm a BTech IT Final Year Student
-- 🔭 I’m currently practicing questions on LeetCode
+- 🔭 I’m currently working in Zomato. __[@mayank-zoman](https://github.com/mayank-zoman)__ is my github work account
 - 🌱 I’m currently learning Data mining & Flutter
 - 👯 I’m actively looking for a 6 month long internship, starting from January 2022
 - 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
