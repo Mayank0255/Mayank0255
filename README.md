@@ -69,7 +69,7 @@
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
 2. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-3. 🎉 Merged PR [#6](https://github.com/Mayank0255/Weather-HERE/pull/6) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
-4. 🎉 Merged PR [#7](https://github.com/Mayank0255/Weather-HERE/pull/7) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
-5. 🎉 Merged PR [#8](https://github.com/Mayank0255/Weather-HERE/pull/8) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
+3. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+4. 🎉 Merged PR [#6](https://github.com/Mayank0255/Weather-HERE/pull/6) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
+5. 🎉 Merged PR [#7](https://github.com/Mayank0255/Weather-HERE/pull/7) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
   <!--END_SECTION:activity-->
