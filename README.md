@@ -66,6 +66,8 @@
 
 ## Hashnode Blogs
 <!-- HASHNODE_BLOG:START -->
+1. [How I Got An Internship At Zomato Through LinkedIn](https://mayank0255.hashnode.dev/how-i-got-an-internship-at-zomato-through-linkedin-cl5flf3iz08hznunva6frd6ew)
+1. [9 Best Developer Communities On Discord](https://mayank0255.hashnode.dev/9-best-developer-communities-on-discord-clc51kteh000408l5gi7ofv7s)
 <!-- HASHNODE_BLOG:END -->
 
 ## ⚡ Recent Activity
