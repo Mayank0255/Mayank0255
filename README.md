@@ -73,9 +73,9 @@
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-2. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+1. 🎉 Merged PR [#9](https://github.com/Mayank0255/Mayank0255/pull/9) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
+2. 💪 Opened PR [#9](https://github.com/Mayank0255/Mayank0255/pull/9) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
 3. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-4. 🎉 Merged PR [#6](https://github.com/Mayank0255/Weather-HERE/pull/6) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
-5. 🎉 Merged PR [#7](https://github.com/Mayank0255/Weather-HERE/pull/7) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
+4. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+5. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
   <!--END_SECTION:activity-->
