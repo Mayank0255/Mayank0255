@@ -18,6 +18,6 @@ jobs:
         with:
           USERNAME: 'Mayank0255'
           COUNT: 6
-          STYLE: "list-ordered"
+          STYLE: "list"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
