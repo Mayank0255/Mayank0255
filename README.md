@@ -1,8 +1,6 @@
-## Hello, folks!
-<img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
+## Hi 👋, I'm Mayank
+I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.githubusercontent.com/43780137/221352179-29b7efa2-6548-4101-99ec-eb914cbf56e6.png" width="14px"> __Haryana, India__, currently working __Zomato__.
 
-
-<!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
 [![Twitter Badge](https://img.shields.io/badge/-@Mayank0255-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Mayank0255)
 [![Discord Badge](https://img.shields.io/badge/mayank0255-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discords.com/bio/p/mayank0255)
 [![Linkedin Badge](https://img.shields.io/badge/-Mayank%20Aggarwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-aggarwal-14301b168/)
@@ -10,12 +8,15 @@
 [![Youtube Badge](https://img.shields.io/badge/-Mayank-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKIoMO8RvlAh7bIUfT2Nmsg)
 [![Medium Badge](https://img.shields.io/badge/@mayank0255-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mayank0255)
 
-## 🎓 I'm a BTech IT Final Year Student
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+## 🧐 About
 - 🔭 I’m currently working in Zomato. __[@mayank-zoman](https://github.com/mayank-zoman)__ is my github work account
-- 🌱 I’m currently learning Data mining & Flutter
-- 👯 I’m actively looking for a 6 month long internship, starting from January 2022
-- 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
+- 🌱 I’m planning to learn about Distributed Systems and AWS
+- 📝 I write articles on my [blog](https://medium.com/@mayank0255).
+- 💬 Ping me about Node.js, Golang, React.js, and Python.
+- 📙 Check out my [resume](https://drive.google.com/file/d/166e2xFXKtiIDEjSq9gUgKUxuM4XDHEMN/view?usp=sharing).
+- 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
 
 ## 🛠️ Tools & Technologies
 <details>
@@ -64,7 +65,7 @@
 - [How I Got An Internship At Zomato Through LinkedIn](https://levelup.gitconnected.com/how-i-got-an-internship-at-zomato-through-linkedin-be486cf23628?source=rss-62889aba2ad1------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
-## Hashnode Blogs
+## ✒️ Hashnode Blogs
 <!-- HASHNODE_BLOG:START -->
 - [How I Got An Internship At Zomato Through LinkedIn](https://mayank0255.hashnode.dev/how-i-got-an-internship-at-zomato-through-linkedin-cl5flf3iz08hznunva6frd6ew)
 - [9 Best Developer Communities On Discord](https://mayank0255.hashnode.dev/9-best-developer-communities-on-discord-clc51kteh000408l5gi7ofv7s)
