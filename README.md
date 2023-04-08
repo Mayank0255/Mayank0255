@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Mayank
-I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.githubusercontent.com/43780137/221352179-29b7efa2-6548-4101-99ec-eb914cbf56e6.png" width="14px"> __Haryana, India__, currently working __Zomato__.
+I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.githubusercontent.com/43780137/221352179-29b7efa2-6548-4101-99ec-eb914cbf56e6.png" width="14px"> __Haryana, India__, currently working in __Zomato__.
 
 [![Twitter Badge](https://img.shields.io/badge/-@Mayank0255-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Mayank0255)
 [![Discord Badge](https://img.shields.io/badge/mayank0255-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discords.com/bio/p/mayank0255)
