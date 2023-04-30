@@ -74,7 +74,7 @@ I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.git
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Mayank0255/Mayank0255/pull/9) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
+1. 🗣 Commented on [#61](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/61) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
 2. 💪 Opened PR [#9](https://github.com/Mayank0255/Mayank0255/pull/9) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
 3. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
 4. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
