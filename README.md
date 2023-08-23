@@ -74,9 +74,9 @@ I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.git
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Mayank0255/YelpCamp/pull/8) in [Mayank0255/YelpCamp](https://github.com/Mayank0255/YelpCamp)
-2. 🗣 Commented on [#61](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/61#issuecomment-1528956818) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+1. 💪 Opened PR [#69](https://github.com/Amegma/Galaxy-Attack/pull/69) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+2. 🎉 Merged PR [#10](https://github.com/Mayank0255/Mayank0255/pull/10) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
+3. 🎉 Merged PR [#8](https://github.com/Mayank0255/YelpCamp/pull/8) in [Mayank0255/YelpCamp](https://github.com/Mayank0255/YelpCamp)
 4. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
 5. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
   <!--END_SECTION:activity-->
