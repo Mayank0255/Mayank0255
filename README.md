@@ -74,9 +74,9 @@ I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.git
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Mayank0255/mayank0255.github.io/pull/10) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
-2. 💪 Opened PR [#69](https://github.com/Amegma/Galaxy-Attack/pull/69) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-3. 🎉 Merged PR [#10](https://github.com/Mayank0255/Mayank0255/pull/10) in [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255)
-4. 🎉 Merged PR [#8](https://github.com/Mayank0255/YelpCamp/pull/8) in [Mayank0255/YelpCamp](https://github.com/Mayank0255/YelpCamp)
-5. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
+1. 🗣 Commented on [#25](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/25#issuecomment-1742946292) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. 🗣 Commented on [#62](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/62#issuecomment-1742945128) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+3. 🗣 Commented on [#103](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/103#issuecomment-1742941720) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+4. 🗣 Commented on [#86](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/86#issuecomment-1742940969) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+5. 🎉 Merged PR [#10](https://github.com/Mayank0255/mayank0255.github.io/pull/10) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
   <!--END_SECTION:activity-->
