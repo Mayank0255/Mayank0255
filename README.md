@@ -75,9 +75,9 @@ I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.git
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Mayank0255/mayank0255.github.io/pull/2) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
-2. 💪 Opened PR [#2](https://github.com/Mayank0255/mayank0255.github.io/pull/2) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
-3. 🎉 Merged PR [#1](https://github.com/Mayank0255/mayank0255.github.io/pull/1) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
-4. 💪 Opened PR [#1](https://github.com/Mayank0255/mayank0255.github.io/pull/1) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
-5. 🎉 Merged PR [#10](https://github.com/Mayank0255/mayank0255.github.io/pull/10) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
+1. 💪 Opened PR [#4](https://github.com/Mayank0255/mayank0255.github.io/pull/4) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
+2. 🎉 Merged PR [#2](https://github.com/Mayank0255/mayank0255.github.io/pull/2) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
+3. 💪 Opened PR [#2](https://github.com/Mayank0255/mayank0255.github.io/pull/2) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
+4. 🎉 Merged PR [#1](https://github.com/Mayank0255/mayank0255.github.io/pull/1) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
+5. 💪 Opened PR [#1](https://github.com/Mayank0255/mayank0255.github.io/pull/1) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
   <!--END_SECTION:activity-->
