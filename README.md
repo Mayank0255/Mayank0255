@@ -75,9 +75,9 @@ I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.git
 ## ⚡ Recent Activity
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Mayank0255/mayank0255.github.io/pull/1) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
-2. 🗣 Commented on [#62](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/62#issuecomment-1742945128) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. 🗣 Commented on [#103](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/103#issuecomment-1742941720) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
+1. 💪 Opened PR [#2](https://github.com/Mayank0255/mayank0255.github.io/pull/2) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
+2. 🎉 Merged PR [#1](https://github.com/Mayank0255/mayank0255.github.io/pull/1) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
+3. 💪 Opened PR [#1](https://github.com/Mayank0255/mayank0255.github.io/pull/1) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
 4. 🗣 Commented on [#86](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/86#issuecomment-1742940969) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
 5. 🎉 Merged PR [#10](https://github.com/Mayank0255/mayank0255.github.io/pull/10) in [Mayank0255/mayank0255.github.io](https://github.com/Mayank0255/mayank0255.github.io)
   <!--END_SECTION:activity-->
