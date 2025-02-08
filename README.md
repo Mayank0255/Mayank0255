@@ -61,6 +61,7 @@ I'm Mayank Aggarwal, a Software Developer from <img src="https://user-images.git
 
 ## 📝 Medium Blogs
 <!-- MEDIUM-STORY-LIST:START -->
+- [From CLI to Notion: My Developer Productivity Toolkit](https://medium.com/@mayank0255/from-cli-to-notion-my-developer-productivity-toolkit-5d1f1addb2f5?source=rss-62889aba2ad1------2)
 - [10 Best Sub-Reddits To Help To Grow As A Developer](https://levelup.gitconnected.com/10-best-sub-reddits-to-help-to-grow-as-a-developer-984b0b684683?source=rss-62889aba2ad1------2)
 - [9 Best Developer Communities On Discord](https://levelup.gitconnected.com/9-best-developer-communities-on-discord-c673b8ab3a1c?source=rss-62889aba2ad1------2)
 - [How I Got An Internship At Zomato Through LinkedIn](https://levelup.gitconnected.com/how-i-got-an-internship-at-zomato-through-linkedin-be486cf23628?source=rss-62889aba2ad1------2)
